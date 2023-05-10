@@ -1,0 +1,12 @@
+.app h1 {
+    margin: 1rem 0;
+    font-size: 70px;
+    color: #ffe400;
+    text-align: center;
+    text-decoration: underline;
+    letter-spacing: 2px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    text-shadow: 2px 2px 0px rgb(133, 128, 46);
+  }
+  
